@@ -1,0 +1,13 @@
+C:\Users\bruno\source\repos\Juntando\Juntando\bin\Debug\netcoreapp3.1\Juntando.exe
+C:\Users\bruno\source\repos\Juntando\Juntando\bin\Debug\netcoreapp3.1\Juntando.deps.json
+C:\Users\bruno\source\repos\Juntando\Juntando\bin\Debug\netcoreapp3.1\Juntando.runtimeconfig.json
+C:\Users\bruno\source\repos\Juntando\Juntando\bin\Debug\netcoreapp3.1\Juntando.runtimeconfig.dev.json
+C:\Users\bruno\source\repos\Juntando\Juntando\bin\Debug\netcoreapp3.1\Juntando.dll
+C:\Users\bruno\source\repos\Juntando\Juntando\bin\Debug\netcoreapp3.1\Juntando.pdb
+C:\Users\bruno\source\repos\Juntando\Juntando\obj\Debug\netcoreapp3.1\Juntando.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\Juntando\Juntando\obj\Debug\netcoreapp3.1\Juntando.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\Juntando\Juntando\obj\Debug\netcoreapp3.1\Juntando.AssemblyInfo.cs
+C:\Users\bruno\source\repos\Juntando\Juntando\obj\Debug\netcoreapp3.1\Juntando.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\Juntando\Juntando\obj\Debug\netcoreapp3.1\Juntando.dll
+C:\Users\bruno\source\repos\Juntando\Juntando\obj\Debug\netcoreapp3.1\Juntando.pdb
+C:\Users\bruno\source\repos\Juntando\Juntando\obj\Debug\netcoreapp3.1\Juntando.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\bruno\source\repos\WriteLine and ReadLine\WriteLine and ReadLine\bin\Debug\netcoreapp3.1\WriteLine and ReadLine.exe
+C:\Users\bruno\source\repos\WriteLine and ReadLine\WriteLine and ReadLine\bin\Debug\netcoreapp3.1\WriteLine and ReadLine.deps.json
+C:\Users\bruno\source\repos\WriteLine and ReadLine\WriteLine and ReadLine\bin\Debug\netcoreapp3.1\WriteLine and ReadLine.runtimeconfig.json
+C:\Users\bruno\source\repos\WriteLine and ReadLine\WriteLine and ReadLine\bin\Debug\netcoreapp3.1\WriteLine and ReadLine.runtimeconfig.dev.json
+C:\Users\bruno\source\repos\WriteLine and ReadLine\WriteLine and ReadLine\bin\Debug\netcoreapp3.1\WriteLine and ReadLine.dll
+C:\Users\bruno\source\repos\WriteLine and ReadLine\WriteLine and ReadLine\bin\Debug\netcoreapp3.1\WriteLine and ReadLine.pdb
+C:\Users\bruno\source\repos\WriteLine and ReadLine\WriteLine and ReadLine\obj\Debug\netcoreapp3.1\WriteLine and ReadLine.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\WriteLine and ReadLine\WriteLine and ReadLine\obj\Debug\netcoreapp3.1\WriteLine and ReadLine.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\WriteLine and ReadLine\WriteLine and ReadLine\obj\Debug\netcoreapp3.1\WriteLine and ReadLine.AssemblyInfo.cs
+C:\Users\bruno\source\repos\WriteLine and ReadLine\WriteLine and ReadLine\obj\Debug\netcoreapp3.1\WriteLine and ReadLine.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\WriteLine and ReadLine\WriteLine and ReadLine\obj\Debug\netcoreapp3.1\WriteLine and ReadLine.dll
+C:\Users\bruno\source\repos\WriteLine and ReadLine\WriteLine and ReadLine\obj\Debug\netcoreapp3.1\WriteLine and ReadLine.pdb
+C:\Users\bruno\source\repos\WriteLine and ReadLine\WriteLine and ReadLine\obj\Debug\netcoreapp3.1\WriteLine and ReadLine.genruntimeconfig.cache

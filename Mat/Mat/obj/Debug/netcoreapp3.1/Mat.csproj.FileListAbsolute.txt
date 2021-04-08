@@ -1,0 +1,13 @@
+C:\Users\bruno\source\repos\Mat\Mat\bin\Debug\netcoreapp3.1\Mat.exe
+C:\Users\bruno\source\repos\Mat\Mat\bin\Debug\netcoreapp3.1\Mat.deps.json
+C:\Users\bruno\source\repos\Mat\Mat\bin\Debug\netcoreapp3.1\Mat.runtimeconfig.json
+C:\Users\bruno\source\repos\Mat\Mat\bin\Debug\netcoreapp3.1\Mat.runtimeconfig.dev.json
+C:\Users\bruno\source\repos\Mat\Mat\bin\Debug\netcoreapp3.1\Mat.dll
+C:\Users\bruno\source\repos\Mat\Mat\bin\Debug\netcoreapp3.1\Mat.pdb
+C:\Users\bruno\source\repos\Mat\Mat\obj\Debug\netcoreapp3.1\Mat.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\Mat\Mat\obj\Debug\netcoreapp3.1\Mat.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\Mat\Mat\obj\Debug\netcoreapp3.1\Mat.AssemblyInfo.cs
+C:\Users\bruno\source\repos\Mat\Mat\obj\Debug\netcoreapp3.1\Mat.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\Mat\Mat\obj\Debug\netcoreapp3.1\Mat.dll
+C:\Users\bruno\source\repos\Mat\Mat\obj\Debug\netcoreapp3.1\Mat.pdb
+C:\Users\bruno\source\repos\Mat\Mat\obj\Debug\netcoreapp3.1\Mat.genruntimeconfig.cache

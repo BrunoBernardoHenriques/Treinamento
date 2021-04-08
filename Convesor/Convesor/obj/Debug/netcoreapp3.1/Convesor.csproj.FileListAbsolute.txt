@@ -1,0 +1,13 @@
+C:\Users\bruno\source\repos\Convesor\Convesor\bin\Debug\netcoreapp3.1\Convesor.exe
+C:\Users\bruno\source\repos\Convesor\Convesor\bin\Debug\netcoreapp3.1\Convesor.deps.json
+C:\Users\bruno\source\repos\Convesor\Convesor\bin\Debug\netcoreapp3.1\Convesor.runtimeconfig.json
+C:\Users\bruno\source\repos\Convesor\Convesor\bin\Debug\netcoreapp3.1\Convesor.runtimeconfig.dev.json
+C:\Users\bruno\source\repos\Convesor\Convesor\bin\Debug\netcoreapp3.1\Convesor.dll
+C:\Users\bruno\source\repos\Convesor\Convesor\bin\Debug\netcoreapp3.1\Convesor.pdb
+C:\Users\bruno\source\repos\Convesor\Convesor\obj\Debug\netcoreapp3.1\Convesor.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\Convesor\Convesor\obj\Debug\netcoreapp3.1\Convesor.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\Convesor\Convesor\obj\Debug\netcoreapp3.1\Convesor.AssemblyInfo.cs
+C:\Users\bruno\source\repos\Convesor\Convesor\obj\Debug\netcoreapp3.1\Convesor.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\Convesor\Convesor\obj\Debug\netcoreapp3.1\Convesor.dll
+C:\Users\bruno\source\repos\Convesor\Convesor\obj\Debug\netcoreapp3.1\Convesor.pdb
+C:\Users\bruno\source\repos\Convesor\Convesor\obj\Debug\netcoreapp3.1\Convesor.genruntimeconfig.cache
